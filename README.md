@@ -1,2 +1,16 @@
-# Internship_Rane
-Documentation and deliverables of my 4-week internship at Rane Steering Systems, R&amp;D division
+# Rane Steering Systems – R&D Internship (May–June 2025)
+
+This repository contains the documentation and deliverables from my 6-week internship at **Rane Steering Systems**, where I worked in the **Research & Development division** focused on **manual steering column design and benchmarking** for commercial vehicles.
+
+During the internship, I contributed to design evaluation projects, learned about steering component testing methods, and developed a detailed comparison matrix for steering column sleeve designs under real-world OEM constraints.
+
+---
+
+## Repository Contents
+
+- **`/final_report/`**  
+  Contains the final internship **report**.
+
+- **`/internship_certificate/`** _(optional)_  
+  Contains the final **completion certificate**.
+
