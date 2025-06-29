@@ -8,7 +8,7 @@ During the internship, I contributed to design evaluation projects, learned abou
 
 ## Repository Contents
 
-- **`/final_report/`**  
+- **`/final_report_pdf/`**  
   Contains the final internship **report**.
 
 - **`/internship_certificate/`**
