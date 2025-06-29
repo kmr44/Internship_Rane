@@ -11,6 +11,6 @@ During the internship, I contributed to design evaluation projects, learned abou
 - **`/final_report/`**  
   Contains the final internship **report**.
 
-- **`/rane_internship_certificate/`**
+- **`/internship_certificate/`**
   Contains the final **completion certificate**.
 
