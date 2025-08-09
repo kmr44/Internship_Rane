@@ -14,3 +14,6 @@ During the internship, I contributed to design evaluation projects, learned abou
 - **`/internship_certificate/`**
   Contains the final **completion certificate**.
 
+_ **'/Progress_Reports/'**
+  Contains Weekly progress Reports
+
